@@ -125,7 +125,7 @@ export const projectsData = [
     description:
       "Filled with unique shopping destinations, great dining, and the bustling activity of a waterfront town, Mackinac’s downtown is a flurry of horses, bicycles and shoppers. Go in and out of fudge shops, explore the docks, and watch the water. Participate in an architectural walking tour or begin to journey through time at the island’s many historic sites.",
     tags: ["City", "Shopping", "Shops"],
-    link: "https://github.com/vishalpatil7860/Netflix-Content-Analytics-Dashboard-using-Tableau/tree/main",
+    link: "https://www.mackinacisland.org/blog/downtown-mackinac-something-everyone/",
     imageUrl: downtown,
   },
   {
@@ -133,7 +133,7 @@ export const projectsData = [
     description:
     "Windermere Point is a green scape where the art of stone skipping is practiced every day. You will find some perfect skipping rocks there or you be like the professionals that gather at Windermere Point every July 4th for the W.T. Rabe Stone Skipping Competition.",
     tags: ["Beach", "Shore", "Stone Skipping", "Scenic"],
-    link: "https://github.com/vishalpatil7860/keyword-extraction-and-text-summarization-using-NLP",
+    link: "https://www.mackinacisland.org/blog/best-spots-for-stoneskipping-on-mackinac-island/",
     imageUrl: windermere,
   },
   {
